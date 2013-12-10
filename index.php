@@ -6,7 +6,8 @@
     </head>
     <body>
         <?php
-        // put your code here
+            echo "aosdiuoiasdjoiajdsoiajdsoi";
         ?>
+        
     </body>
 </html>
