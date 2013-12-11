@@ -8,6 +8,7 @@
         <?php
             echo "aosdiuoiasdjoiajdsoiajdsoi";
             echo 'mi echo';
+            echo 'Dietrich pepe';
         ?>
         
     </body>
