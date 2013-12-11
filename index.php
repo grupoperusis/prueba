@@ -7,6 +7,7 @@
     <body>
         <?php
             echo "aosdiuoiasdjoiajdsoiajdsoi";
+            echo 'mi echo';
         ?>
         
     </body>
